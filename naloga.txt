@@ -1,0 +1,7 @@
+S pomočjo BeautifulSoup-a izluščite stranke (customers) s strani podjetja https://retool.com/.
+Rezultat naj bo:
+    a.) datoteka katera vsebuje:
+        Domena stranke
+        Povezava do logotipa stranke (opcijsko)
+        Ime stranke (opcijsko)
+b.) uporabljena koda
